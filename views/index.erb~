@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, height=device-height">
+  <title>Bruzzese Blacklight</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.min.css">
+  <link rel="stylesheet" href="css/style.css">  
+  <link href='http://fonts.googleapis.com/css?family=Oswald:400,300' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+ </head>
+  
+ <body>
+   <header id="main-header">
+     <h1>Bruzzese Blacklight</h1>
+        <br>
+        <br>
+        <br>
+        <br>
+      <h3> the Halloween party you wanna be at
+        <br>
+        <i>& the one you just got invited to.</i></h3>
+     <a href=/#introduction><img id="down-arrow" src="images/down_arrow.png"></a>
+    </header>
+    <span id="introduction">
+    <div id="intro">
+      
+       <h3> Party Details.  </h3>
+       <ul>
+         <li> <h4 id="explore"> Where? <h5> 46 Forbes Rd, Westwood, 02090.</h5> </h4>
+         <li> <h4 id="inspire"> When? <h5> Halloween (Saturday, Oct. 31st).</h5> </h4>
+         <li> <h4 id="create"> What? <h5> A wicked awesome Blacklight Dance Party.</h5> </h4>
+       </ul>
+   </div>
+   </span>
+   
+   
+   
+   <div class="quotes" id="quote1">
+     
+       <h2>  RSVP by texting 781 - 234 - 8011 <br> (my number) if you can go or if you cannot. </h2>
+   </div>
+   
+   <span id="refresh_phrases">
+     
+     <div id="phrase-title">
+       <span id="phraseslocation">
+         <h3> Let's Curate Together:  </h3>
+       </span>
+       <iframe src="https://embed.spotify.com/?uri=spotify:user:tommyb7-us:playlist:18Vf4k4jhZGfKl8Qj5NKhe" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+       <h4> open the collaborative playlist in the <br>Spotify app and add the songs <i>you </i>  want to dance to.</h4>
+       
+     </div> 
+     
+   </span>
+   
+   <div class="quotes" id="quote2">
+     
+   <h2> 
+     Inspire Others. </h2>
+   </div>
+   
+   <div id="submission">
+     <div class="ss-q-title">
+                submit your new phrase to expand the wonderlands:
+              </div>
+     <iframe src="https://docs.google.com/forms/d/1o1iRxERb9BvcQyKJynMPTBgRX3lGM26aZIYTJQh51Bc/viewform?embedded=true" width="1060" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+     
+   </div>
+   
+ </body>
+ <footer>
+   <p class="footer-links">
+       <p>Programmed & Designed By Yours Truly,</p>
+			<p>Tommy Bruzzese.
+   <p class="footer-company-name">Bruzzese Blacklight © 2015</p>
+
+  </footer>
+</html>
